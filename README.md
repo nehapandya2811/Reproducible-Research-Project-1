@@ -1,6 +1,3 @@
-# Reproducible-Research-Project-1
-Coursera Reproducible Research Project 1
-
 ---
 title: "Reproducible-Research-Project-1"
 author: "NehaPandya"
